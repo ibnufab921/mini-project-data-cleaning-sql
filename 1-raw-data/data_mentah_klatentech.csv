@@ -1,0 +1,6 @@
+ID_Transaksi,Tanggal,Nama_Pelanggan,Total_Belanja,Metode_Bayar
+T001,2026-04-01,Budi Santoso,1500000,Transfer Bank
+T002,02/04/2026,ANDI WIJAYA,-50000,QRIS
+T003,2026-04-03,,750000,qris
+T004,2026-04-04,Rinawati,2300000,COD
+T001,2026-04-01,Budi Santoso,1500000,Transfer Bank
